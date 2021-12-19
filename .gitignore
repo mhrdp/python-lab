@@ -4,3 +4,9 @@
 *.py.un~
 
 *.un~
+
+env/
+.vimbackup/
+
+# Google Drive outo-generated files
+desktop.ini
