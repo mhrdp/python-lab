@@ -1,2 +1,5 @@
-entity_code,date_of_report,total_current_assets,total_noncurrent_assets,total_assets,total_current_liabilities,total_noncurrent_liabilities,total_liabilities,total_equity,total_liabilities_and_equity
-AALI,30 June 2021,7629855,21059167,28689022,2009568,6732049,8741617,19947405,28689022
+entity_code,rounding_level,date_of_report,total_current_assets,total_noncurrent_assets,total_assets,total_current_liabilities,total_noncurrent_liabilities,total_liabilities,total_equity,total_liabilities_and_equity
+AALI,Jutaan / In Million,31 March 2021,6700900,21768117,28469017,2056407,6764132,8820539,19648478,28469017
+ABBA,Satuan Penuh / Full Amount,31 March 2021,67882297493,182254058279,250136355772,242043221850,96224962897,338268184747,-88131828975,250136355772
+ABBA,Satuan Penuh / Full Amount,31 March 2021,67882297493,182254058279,250136355772,242043221850,96224962897,338268184747,-88131828975,250136355772
+AALI,Jutaan / In Million,30 June 2021,7629855,21059167,28689022,2009568,6732049,8741617,19947405,28689022
