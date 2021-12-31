@@ -1,0 +1,14 @@
+*.md~
+*.md.un~
+*.py~
+*.py.un~
+
+*.un~
+
+env/
+.vimbackup/
+static/
+staticfiles/
+
+# Google Drive outo-generated files
+desktop.ini
