@@ -10,6 +10,7 @@ env/
 static/
 staticfiles/
 .ipynb_checkpoints/
+IDX - Financial Statements/
 
 # Google Drive outo-generated files
 desktop.ini
