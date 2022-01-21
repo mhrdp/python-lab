@@ -12,5 +12,7 @@ staticfiles/
 .ipynb_checkpoints/
 IDX - Financial Statements/
 
+__pycache__/
+
 # Google Drive outo-generated files
 desktop.ini

@@ -1,0 +1,75 @@
+entity_code,rounding_level,sector,subsector,date_of_report,cashflow_from_operating,cashflow_from_investing,cashflow_from_financing,change_in_cash_and_equivalents,cash_and_equivalents_start,exchange_rate_effect,other_change_in_cash_or_equivalents,cash_or_equivalents_final
+ADHI,Satuan Penuh / Full Amount,"6. Property, Real Estate And Building Construction",62. Building Construction,31 March 2019,-996735152048.0,-134944728751.0,-133232168753.0,-1264912049552.0,3263036627238.0,,,1998124577686.0
+ADHI,Satuan Penuh / Full Amount,"6. Property, Real Estate And Building Construction",62. Building Construction,30 June 2019,-2521975082100.0,-295542649518.0,1788709646277.0,-1028808085341.0,3263036627238.0,,,2234228541897.0
+ADHI,Satuan Penuh / Full Amount,"6. Property, Real Estate And Building Construction",62. Building Construction,30 September 2019,-3093881118337.0,-1134487266576.0,2423955676566.0,-1804412708347.0,3263036627238.0,,,1458623918891.0
+ADHI,Satuan Penuh / Full Amount,"6. Property, Real Estate And Building Construction",62. Building Construction,31 December 2019,496197490895.0,-1514892130158.0,1010667876639.0,-8026762624.0,3263036627238.0,,,3255009864614.0
+ADHI,Satuan Penuh / Full Amount,"6. Property, Real Estate And Building Construction",62. Building Construction,31 March 2020,-1254552098847.0,-56973270290.0,-774364023673.0,-2085889392810.0,3255009864614.0,,,1169120471804.0
+ADHI,Satuan Penuh / Full Amount,"6. Property, Real Estate And Building Construction",62. Building Construction,30 June 2020,-1520075803481.0,-339868769438.0,-509448737434.0,-2369393310353.0,3255009864614.0,,,885616554261.0
+ADHI,Satuan Penuh / Full Amount,"6. Property, Real Estate And Building Construction",62. Building Construction,30 September 2020,855599980844.0,-391207679435.0,-1673365638288.0,-1208973336879.0,3255009864614.0,,,2046036527735.0
+ADHI,Satuan Penuh / Full Amount,"6. Property, Real Estate And Building Construction",62. Building Construction,31 December 2020,1378098474761.0,-518541144157.0,-1750918130185.0,-891360799581.0,3255009864614.0,,,2363649065033.0
+ADHI,Satuan Penuh / Full Amount,"6. Property, Real Estate And Building Construction",62. Building Construction,31 March 2021,-1504079938186.0,-14599631623.0,-58634636033.0,-1577314205842.0,2363649065033.0,,,786334859191.0
+ADHI,Satuan Penuh / Full Amount,"6. Property, Real Estate And Building Construction",62. Building Construction,30 June 2021,-2279341930411.0,-156159894742.0,742783968021.0,-1692717857132.0,2363649065033.0,,,670931207901.0
+ADHI,Satuan Penuh / Full Amount,"6. Property, Real Estate And Building Construction",62. Building Construction,30 September 2021,-1532995760425.0,-119303314743.0,913882831372.0,-738416243796.0,2363649065033.0,,,1625232821238.0
+ADRO,Ribuan / In Thousand,2. Mining,21. Coal Mining,31 March 2019,196470.0,-125038.0,-189902.0,-118470.0,927896.0,3945.0,,813371.0
+ADRO,Ribuan / In Thousand,2. Mining,21. Coal Mining,30 June 2019,537844.0,-229607.0,-346016.0,-37779.0,927896.0,5099.0,,895216.0
+ADRO,Ribuan / In Thousand,2. Mining,21. Coal Mining,30 September 2019,865233.0,-399606.0,-390377.0,75250.0,927896.0,4790.0,,1007936.0
+ADRO,Ribuan / In Thousand,2. Mining,21. Coal Mining,31 December 2019,917283.0,-538504.0,263300.0,642079.0,927896.0,7652.0,-1436.0,1576191.0
+ADRO,Ribuan / In Thousand,2. Mining,21. Coal Mining,31 March 2020,142320.0,-221951.0,-223099.0,-302730.0,1576191.0,-22788.0,,1250673.0
+ADRO,Ribuan / In Thousand,2. Mining,21. Coal Mining,30 June 2020,390933.0,-301524.0,-585684.0,-496275.0,1576191.0,-4775.0,,1075141.0
+ADRO,Ribuan / In Thousand,2. Mining,21. Coal Mining,30 September 2020,599777.0,-321299.0,-659866.0,-381388.0,1576191.0,-9133.0,,1185670.0
+ADRO,Ribuan / In Thousand,2. Mining,21. Coal Mining,31 December 2020,736431.0,-359335.0,-777967.0,-400871.0,1576191.0,-1617.0,,1173703.0
+ADRO,Ribuan / In Thousand,2. Mining,21. Coal Mining,31 March 2021,128394.0,-54077.0,-53611.0,20706.0,1173703.0,-4095.0,,1190314.0
+ADRO,Ribuan / In Thousand,2. Mining,21. Coal Mining,30 June 2021,400890.0,-399742.0,36449.0,37597.0,1173703.0,-3648.0,,1207652.0
+ADRO,Ribuan / In Thousand,2. Mining,21. Coal Mining,30 September 2021,846848.0,-528513.0,20756.0,339091.0,1173703.0,-1873.0,,1510921.0
+AKRA,Ribuan / In Thousand,"9. Trade, Services & Investment",91. Wholesale (Durable & Non-Durable Goods),31 March 2019,-410333773.0,-288985032.0,-414098810.0,-1113417615.0,2171083536.0,-10267607.0,,1047398314.0
+AKRA,Ribuan / In Thousand,"9. Trade, Services & Investment",91. Wholesale (Durable & Non-Durable Goods),30 September 2019,-526464143.0,-666996497.0,185326424.0,-1008134216.0,2171083536.0,-39722122.0,,1123227198.0
+AKRA,Ribuan / In Thousand,"9. Trade, Services & Investment",91. Wholesale (Durable & Non-Durable Goods),31 December 2019,687979553.0,-779297473.0,-128832144.0,-220150064.0,2171083536.0,-90152592.0,,1860780880.0
+AKRA,Ribuan / In Thousand,"9. Trade, Services & Investment",91. Wholesale (Durable & Non-Durable Goods),31 March 2020,-231704508.0,-56278909.0,-18531631.0,-306515048.0,1860780880.0,95907474.0,,1650173306.0
+AKRA,Ribuan / In Thousand,"9. Trade, Services & Investment",91. Wholesale (Durable & Non-Durable Goods),30 June 2020,-467874426.0,-106958282.0,18098486.0,-556734222.0,1860780880.0,7451187.0,,1311497845.0
+AKRA,Ribuan / In Thousand,"9. Trade, Services & Investment",91. Wholesale (Durable & Non-Durable Goods),30 September 2020,903516272.0,-164466007.0,-1257079164.0,-518028899.0,1860780880.0,28117047.0,,1370869028.0
+AKRA,Ribuan / In Thousand,"9. Trade, Services & Investment",91. Wholesale (Durable & Non-Durable Goods),31 December 2020,1066972977.0,-139352627.0,-1239093498.0,-311473148.0,1860780880.0,55897.0,,1549363629.0
+AKRA,Ribuan / In Thousand,"9. Trade, Services & Investment",91. Wholesale (Durable & Non-Durable Goods),31 March 2021,1239735500.0,-59906870.0,-230626785.0,949201845.0,1549363629.0,24731207.0,,2523296681.0
+AKRA,Ribuan / In Thousand,"9. Trade, Services & Investment",91. Wholesale (Durable & Non-Durable Goods),30 June 2021,1560480397.0,-89317150.0,-936886662.0,534276585.0,1549363629.0,14775132.0,,2098415346.0
+AKRA,Ribuan / In Thousand,"9. Trade, Services & Investment",91. Wholesale (Durable & Non-Durable Goods),30 September 2021,1261072382.0,-149696571.0,-1091448203.0,19927608.0,1549363629.0,10135953.0,,1579427190.0
+ANTM,Ribuan / In Thousand,2. Mining,23. Metal And Mineral Mining,31 March 2019,-933458612.0,-427698498.0,579151681.0,-782005429.0,4299068085.0,-22188039.0,,3494874617.0
+ANTM,Ribuan / In Thousand,2. Mining,23. Metal And Mineral Mining,30 June 2019,-882412877.0,-517266939.0,624936824.0,-774742992.0,4299068085.0,-8932095.0,,3515392998.0
+ANTM,Ribuan / In Thousand,2. Mining,23. Metal And Mineral Mining,30 September 2019,-251525470.0,-377606045.0,-202671893.0,-831803408.0,4299068085.0,-4023430.0,,3463241247.0
+ANTM,Ribuan / In Thousand,2. Mining,23. Metal And Mineral Mining,31 December 2019,1633837222.0,-885313400.0,-1363159711.0,-614635889.0,4299068085.0,-48189116.0,,3636243080.0
+ANTM,Ribuan / In Thousand,2. Mining,23. Metal And Mineral Mining,31 March 2020,18866802.0,-126374314.0,-438652956.0,-546160468.0,3636243080.0,70564078.0,,3160646690.0
+ANTM,Ribuan / In Thousand,2. Mining,23. Metal And Mineral Mining,30 June 2020,125699063.0,-160017916.0,-544251981.0,-578570834.0,3636243080.0,-51402350.0,,3006269896.0
+ANTM,Ribuan / In Thousand,2. Mining,23. Metal And Mineral Mining,30 September 2020,1117506516.0,-375109858.0,-684953748.0,57442910.0,3636243080.0,-24303264.0,,3669382726.0
+ANTM,Ribuan / In Thousand,2. Mining,23. Metal And Mineral Mining,31 December 2020,2218674280.0,-567381567.0,-1218455889.0,432836824.0,3636243080.0,-84692257.0,,3984387647.0
+ANTM,Ribuan / In Thousand,2. Mining,23. Metal And Mineral Mining,31 March 2021,1880207021.0,-104193613.0,-511462257.0,1264551151.0,3984387647.0,77183580.0,,5326122378.0
+ANTM,Ribuan / In Thousand,2. Mining,23. Metal And Mineral Mining,30 June 2021,2403482303.0,-288631997.0,-1046272851.0,1068577455.0,3984387647.0,68948828.0,,5121913930.0
+ANTM,Ribuan / In Thousand,2. Mining,23. Metal And Mineral Mining,30 September 2021,4451262279.0,-581913144.0,-1507878349.0,2361470786.0,3984387647.0,21934086.0,,6367792519.0
+ASII,Miliaran / In Billion,4. Miscellaneous Industry,42. Automotive And Components,31 March 2019,6105.0,-7210.0,6200.0,5095.0,24941.0,5.0,,30041.0
+ASII,Miliaran / In Billion,4. Miscellaneous Industry,42. Automotive And Components,30 June 2019,7284.0,-9076.0,-1561.0,-3353.0,24941.0,-56.0,,21532.0
+ASII,Miliaran / In Billion,4. Miscellaneous Industry,42. Automotive And Components,30 September 2019,17615.0,-12321.0,-4479.0,815.0,24941.0,-15.0,,25741.0
+ASII,Miliaran / In Billion,4. Miscellaneous Industry,42. Automotive And Components,31 December 2019,19175.0,-14186.0,-5414.0,-425.0,24941.0,-192.0,,24324.0
+ASII,Miliaran / In Billion,4. Miscellaneous Industry,42. Automotive And Components,31 March 2020,7829.0,-2518.0,-1921.0,3390.0,24324.0,1503.0,,29217.0
+ASII,Miliaran / In Billion,4. Miscellaneous Industry,42. Automotive And Components,30 June 2020,13966.0,13488.0,-9950.0,17504.0,24324.0,296.0,,42124.0
+ASII,Miliaran / In Billion,4. Miscellaneous Industry,42. Automotive And Components,30 September 2020,28561.0,14976.0,-21570.0,21967.0,24324.0,677.0,,46968.0
+ASII,Miliaran / In Billion,4. Miscellaneous Industry,42. Automotive And Components,31 December 2020,37683.0,13133.0,-27955.0,22861.0,24324.0,368.0,,47553.0
+ASII,Miliaran / In Billion,4. Miscellaneous Industry,42. Automotive And Components,31 March 2021,10884.0,-1494.0,-718.0,8672.0,47553.0,350.0,,56575.0
+ASII,Miliaran / In Billion,4. Miscellaneous Industry,42. Automotive And Components,30 June 2021,18815.0,-862.0,-7658.0,10295.0,47553.0,317.0,,58165.0
+ASII,Miliaran / In Billion,4. Miscellaneous Industry,42. Automotive And Components,30 September 2021,29563.0,-4226.0,-12503.0,12834.0,47553.0,151.0,,60538.0
+ASRI,Ribuan / In Thousand,"6. Property, Real Estate And Building Construction",61. Property And Real Estate,31 March 2019,175605430.0,-52706773.0,-110248238.0,12650419.0,459009210.0,-2709113.0,,468950516.0
+ASRI,Ribuan / In Thousand,"6. Property, Real Estate And Building Construction",61. Property And Real Estate,30 June 2019,588586232.0,-145540165.0,221852204.0,664898271.0,459009210.0,-15511104.0,,1108396377.0
+ASRI,Ribuan / In Thousand,"6. Property, Real Estate And Building Construction",61. Property And Real Estate,30 September 2019,990106706.0,-417626478.0,69537087.0,642017315.0,459009210.0,-14853332.0,,1086173193.0
+ASRI,Ribuan / In Thousand,"6. Property, Real Estate And Building Construction",61. Property And Real Estate,31 December 2019,1690471159.0,-594108835.0,-329709599.0,766652725.0,459009210.0,-16989429.0,,1208672506.0
+ASRI,Ribuan / In Thousand,"6. Property, Real Estate And Building Construction",61. Property And Real Estate,31 March 2020,35975244.0,-100295709.0,902914496.0,838594031.0,1208672506.0,91317130.0,,2138583667.0
+ASRI,Ribuan / In Thousand,"6. Property, Real Estate And Building Construction",61. Property And Real Estate,30 June 2020,164290281.0,-139857327.0,-383861257.0,-359428303.0,1208672506.0,38785332.0,,888029535.0
+ASRI,Ribuan / In Thousand,"6. Property, Real Estate And Building Construction",61. Property And Real Estate,30 September 2020,325782377.0,-182672556.0,-446750537.0,-303640716.0,1208672506.0,55273159.0,,960304949.0
+ASRI,Ribuan / In Thousand,"6. Property, Real Estate And Building Construction",61. Property And Real Estate,31 December 2020,334317194.0,-147889223.0,-815828953.0,-629400982.0,1208672506.0,45404394.0,,624675918.0
+ASRI,Ribuan / In Thousand,"6. Property, Real Estate And Building Construction",61. Property And Real Estate,31 March 2021,198423026.0,3605965.0,-65176069.0,136852922.0,624675918.0,8659917.0,,770188757.0
+ASRI,Ribuan / In Thousand,"6. Property, Real Estate And Building Construction",61. Property And Real Estate,30 June 2021,567315921.0,-86344477.0,-413795785.0,67175659.0,624675918.0,8595593.0,,700447170.0
+ASRI,Ribuan / In Thousand,"6. Property, Real Estate And Building Construction",61. Property And Real Estate,30 September 2021,1020990669.0,-204961870.0,-609799891.0,206228908.0,624675918.0,6427915.0,,837332741.0
+BBCA,Jutaan / In Million,8. Finance,81. Bank,31 March 2019,10890598.0,-17008388.0,-910262.0,-7028052.0,103311560.0,276577.0,,96560085.0
+BBCA,Jutaan / In Million,8. Finance,81. Bank,30 September 2019,24110598.0,-17487320.0,-5778205.0,845073.0,103311560.0,356002.0,,104512635.0
+BBCA,Jutaan / In Million,8. Finance,81. Bank,31 March 2020,20634559.0,-29461158.0,3805282.0,-5021317.0,113067545.0,4424409.0,,112470637.0
+BBCA,Jutaan / In Million,8. Finance,81. Bank,30 June 2020,37608332.0,-46151209.0,-13352236.0,-21895113.0,113067545.0,1867512.0,,93039944.0
+BBCA,Jutaan / In Million,8. Finance,81. Bank,30 September 2020,27128267.0,-34767902.0,-13246391.0,-20886026.0,113067545.0,2863202.0,,95044721.0
+BBCA,Jutaan / In Million,8. Finance,81. Bank,31 December 2020,50978875.0,-44117844.0,-15553268.0,-8692237.0,113067545.0,1895929.0,,106271237.0
+BBCA,Jutaan / In Million,8. Finance,81. Bank,31 March 2021,-10432954.0,-11415497.0,-993535.0,-22841986.0,106271237.0,220824.0,,83650075.0
+BBCA,Jutaan / In Million,8. Finance,81. Bank,30 June 2021,81127774.0,-18210988.0,-11655661.0,51261125.0,106271237.0,106032.0,,157638394.0
+BBCA,Jutaan / In Million,8. Finance,81. Bank,30 September 2021,107221145.0,-32688137.0,-11287039.0,63245969.0,106271237.0,84567.0,,169601773.0
