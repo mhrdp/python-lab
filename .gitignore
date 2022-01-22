@@ -4,9 +4,13 @@
 *.py.un~
 
 *.un~
+*.bat
 
+exports/
+exports_backup/
 env/
 .vimbackup/
+.vscode/
 static/
 staticfiles/
 .ipynb_checkpoints/

@@ -242,16 +242,15 @@ class ExtractData:
             df['date_of_report'] = df['date_of_report']
             df['cash_and_cash_equivalents'] = df['cash_and_cash_equivalents']
             df['total_current_assets'] = pd.NA
-            df['total_non_current_assets'] = pd.NA
+            df['total_noncurrent_assets'] = pd.NA
             df['total_assets'] = df['total_assets']
             df['total_current_liabilities'] = pd.NA
-            df['total_non_current_liabilities'] = pd.NA
+            df['total_noncurrent_liabilities'] = pd.NA
             df['total_liabilities'] = df['total_liabilities']
             df['total_equity'] = df['total_equity']
             df['total_liabilities_and_equity'] = pd.NA
             df['total_temporary_syirkah_funds'] = df['total_temporary_syirkah_funds']
             df['total_liabilities_syirkah_equity'] = df['total_liabilities_syirkah_equity']
-           
 
         else:
             df = df[[
@@ -281,10 +280,10 @@ class ExtractData:
             df['date_of_report'] = df['date_of_report']
             df['cash_and_cash_equivalents'] = df['cash_and_cash_equivalents']
             df['total_current_assets'] = df['total_current_assets']
-            df['total_non_current_assets'] = df['total_non_current_assets']
+            df['total_noncurrent_assets'] = df['total_noncurrent_assets']
             df['total_assets'] = df['total_assets']
             df['total_current_liabilities'] = df['total_current_liabilities']
-            df['total_non_current_liabilities'] = df['total_non_current_liabilities']
+            df['total_noncurrent_liabilities'] = df['total_noncurrent_liabilities']
             df['total_liabilities'] = df['total_liabilities']
             df['total_equity'] = df['total_equity']
             df['total_liabilities_and_equity'] = df['total_liabilities_and_equity']
@@ -309,8 +308,8 @@ class ExtractData:
         # combine this with a way to fill the dataframe manually like written above to ignore the empty columns for current dataframe
         head = [
             'entity_code', 'rounding_level', 'sector', 'subsector',
-            'date_of_report', 'cash_and_cash_equivalents', 'total_current_assets', 'total_non_current_assets',
-            'total_assets', 'total_current_liabilities', 'total_non_current_liabilities', 'total_liabilities',
+            'date_of_report', 'cash_and_cash_equivalents', 'total_current_assets', 'total_noncurrent_assets',
+            'total_assets', 'total_current_liabilities', 'total_noncurrent_liabilities', 'total_liabilities',
             'total_equity', 'total_liabilities_and_equity', 'total_temporary_syirkah_funds', 'total_liabilities_syirkah_equity'
         ]
 
