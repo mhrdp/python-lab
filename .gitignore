@@ -6,8 +6,6 @@
 *.un~
 *.bat
 
-exports/
-exports_backup/
 env/
 .vimbackup/
 .vscode/
@@ -17,6 +15,9 @@ staticfiles/
 IDX - Financial Statements/
 
 __pycache__/
+
+exports/
+exports_backup/
 
 # Google Drive outo-generated files
 desktop.ini
