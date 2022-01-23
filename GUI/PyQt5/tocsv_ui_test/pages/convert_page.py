@@ -129,14 +129,14 @@ class ConvertData(QtWidgets.QMainWindow, Ui_MainWindow):
         if filename:
             self.path_dir.setText(path.join(filename[0]))
     
-    #def close_window(self):
-    #    window_dialog = QtWidgets.QMessageBox.question(
-    #        self, 'Notice!',
-    #        'Are your sure want to quit?',
-    #        QtWidgets.QMessageBox.Yes | QtWidgets.QMessageBox.No
-    #    )
+    def close_window(self):
+        window_dialog = QtWidgets.QMessageBox.question(
+            self, 'Notice!',
+            'Are your sure want to quit?',
+            QtWidgets.QMessageBox.Yes | QtWidgets.QMessageBox.No
+        )
         
-    #    if window_dialog == QtWidgets.QMessageBox.Yes:
-    #        app.quit()
-    #    else:
-    #        pass
+        if window_dialog == QtWidgets.QMessageBox.Yes:
+            app.quit()
+        else:
+            pass

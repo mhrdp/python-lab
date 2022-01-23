@@ -381,6 +381,40 @@ class ExtractData:
             df['gross_profit'] = pd.NA
             df['total_profit'] = df['total_profit']
             df['total_comprehensive_income'] = df['total_comprehensive_income']
+        
+        elif df_get_name['subsector'][0] == '73. Telecommunication':
+            df = df[[
+                'date_of_report', 'Sales and revenue', 'Other income', 'Other gains (losses)', 'Finance income',
+                'Share of profit (loss) of associates accounted for using equity method',
+                'Share of profit (loss) of joint ventures accounted for using equity method',
+                'Total profit (loss)', 'Total comprehensive income'
+            ]]
+
+            df_temp = df.rename(
+                columns = {
+                    'Sales and revenue': 'sales_and_revenue',
+                    'Other income': 'other_income',
+                    'Other gains (losses)': 'other_gains_or_losses',
+                    'Finance income': 'finance_income',
+                    'Share of profit (loss) of associates accounted for using equity method': 'profit_or_loss_from_associates',
+                    'Share of profit (loss) of joint ventures accounted for using equity method': 'profit_or_loss_from_jointventure',
+                    'Total profit (loss)': 'total_profit',
+                    'Total comprehensive income': 'total_comprehensive_income',
+                }
+            )
+
+            # Manually fill in the dataframe according to the columns expected for the output
+            # you can fill the columns that are not exist for current dataframe with pd.NA
+            # there's probably a better way to do this but...
+            df['date_of_report'] = df_temp['date_of_report']
+            df['sales_and_revenue'] = df_temp['sales_and_revenue']
+            df['cost'] = pd.NA
+            df['gross_profit'] = (
+                df_temp['sales_and_revenue'] + df_temp['other_income'] + df_temp['other_gains_or_losses'] + 
+                df_temp['finance_income'] + df_temp['profit_or_loss_from_associates'] + df_temp['profit_or_loss_from_jointventure']
+            )
+            df['total_profit'] = df_temp['total_profit']
+            df['total_comprehensive_income'] = df_temp['total_comprehensive_income']
 
         else:
             df = df[[
