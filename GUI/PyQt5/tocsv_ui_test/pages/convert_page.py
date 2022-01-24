@@ -37,7 +37,7 @@ class ConvertData(QtWidgets.QMainWindow, Ui_MainWindow):
         # If you want to filter the dataframe
         # model = PandasModel(df[['entity_code']])
 
-        model = PandasModel[df]
+        model = PandasModel(df)
         self.table_pd.setModel(model)
     
     def convert_all_thread(self):
@@ -110,16 +110,20 @@ class ConvertData(QtWidgets.QMainWindow, Ui_MainWindow):
         self.btn_all.setEnabled(False)
         self.btn_cashflow.setEnabled(False)
         self.btn_b_sheet.setEnabled(False)
+        self.btn_exit.setEnabled(False)
         self.btn_gen_inf.setEnabled(False)
         self.btn_pro_loss.setEnabled(False)
+        self.btn_table.setEnabled(False)
     
     def btn_enabled(self):
         self.label_info.setText('Finished!')
         self.btn_all.setEnabled(True)
         self.btn_b_sheet.setEnabled(True)
         self.btn_cashflow.setEnabled(True)
+        self.btn_exit.setEnabled(True)
         self.btn_gen_inf.setEnabled(True)
         self.btn_pro_loss.setEnabled(True)
+        self.btn_table.setEnabled(True)
     
 
     def browse_file(self):
@@ -137,6 +141,9 @@ class ConvertData(QtWidgets.QMainWindow, Ui_MainWindow):
         )
         
         if window_dialog == QtWidgets.QMessageBox.Yes:
+            import sys
+
+            app = QtWidgets.QApplication(sys.argv)
             app.quit()
         else:
             pass
