@@ -13,6 +13,7 @@ static/
 staticfiles/
 .ipynb_checkpoints/
 IDX - Financial Statements/
+- Testing ground/*.csv
 
 __pycache__/
 
